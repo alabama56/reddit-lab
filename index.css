@@ -1,0 +1,15 @@
+body {
+    background-color: lightslategrey;
+}
+
+div {
+    border-bottom: 5px solid black;
+}
+
+img {
+    width: 500px;
+}
+ h4 {
+     color: orange;
+     font-weight: 100;
+ }
